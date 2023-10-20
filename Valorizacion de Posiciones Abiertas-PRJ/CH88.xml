@@ -1,4 +1,5 @@
 ﻿<GraphProperties>
+
   <GraphLayout>
     <Frame>
       <BorderWidth>8</BorderWidth>
@@ -3566,4 +3567,8 @@
   <ReferenceBookmarks_NOT_IMPLEMENTED></ReferenceBookmarks_NOT_IMPLEMENTED>
   <ActionItems></ActionItems>
   <OnSelectActionItems></OnSelectActionItems>
+</GraphProperties>
+
+<GraphProperties>
+
 </GraphProperties>
